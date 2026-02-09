@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassin Cacao Ouest",
+        "region": "Ouest",
+        "product": "Cacao",
+        "value": 150000000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.0, 5.0],
+            [10.5, 5.0],
+            [10.5, 5.5],
+            [10.0, 5.5],
+            [10.0, 5.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassin Maïs Nord",
+        "region": "Nord",
+        "product": "Maïs",
+        "value": 80000000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.5, 9.0],
+            [14.0, 9.0],
+            [14.0, 9.5],
+            [13.5, 9.5],
+            [13.5, 9.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassin Poisson Littoral",
+        "region": "Littoral",
+        "product": "Poisson",
+        "value": 200000000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.5, 4.0],
+            [10.0, 4.0],
+            [10.0, 4.5],
+            [9.5, 4.5],
+            [9.5, 4.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
